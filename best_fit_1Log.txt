@@ -1,0 +1,46 @@
+****** Fit performed at Mon Mar 26 18:24:11 2018******
+
+Input parameters ---
+       --- imagename:           /home/npol/radio_astro/radio_astronomy_project2/image1.fits
+       --- region:              
+       --- channel:             0
+       --- stokes:              I
+       --- mask:                
+       --- include pixel range: []
+       --- exclude pixel range: []
+*** Details of fit for channel number 0
+Number of pixels used in fit: 572
+Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+       --- Standard deviation of input image: 1.54196e-05 Jy
+       --- Standard deviation of residual image: 4.4177e-06 Jy
+       --- RMS of input image: 1.7686e-05 Jy
+       --- RMS of residual image: 4.42385e-06 Jy
+
+Fit on image1.fits component 0
+Position ---
+       --- ra:    05:31:58.70016 +/- 0.00070 s (0.00874 arcsec along great circle)
+       --- dec: +033.08.52.59564 +/- 0.00960 arcsec
+       --- ra:  510.24 +/- 0.24 pixels
+       --- dec: 512.94 +/- 0.26 pixels
+
+Image component size (convolved with beam) ---
+       --- major axis FWHM:     318 +/- 23 marcsec
+       --- minor axis FWHM:     303 +/- 21 marcsec
+       --- position angle: 2.1 +/- 56.9 deg
+
+Clean beam size ---
+       --- major axis FWHM: 0.31 arcsec
+       --- minor axis FWHM: 0.28 arcsec
+       --- position angle: -75.08 deg
+Image component size (deconvolved from beam) ---
+    Component is a point source
+    It may be as large as 0.19 arcsec x 0.13 arcsec
+
+Flux ---
+       --- Integrated:   72.7 +/- 8.5 uJy
+       --- Peak:         65.1 +/- 4.5 uJy/beam
+       --- Polarization: I
+
+Spectrum ---
+      --- frequency:        22.06350 GHz (1.358771 cm)
+
